@@ -2,7 +2,10 @@
 Principal Software Engineer with a focus on backend development, DevOps, security, and infrastructure operating in redundant, multi-region HITRUST environments.  Owner and Principal at Blue Tufa LLC.  
 
 ## Language and Development Tools
-I am a polyglot but the languages I've been most interested in exploring recently are Rust, Scala 3, Kotlin and Ruby.  I also have an interest in Node, Java, Python, and many more technology stacks.  
+- I am a polyglot but the languages I've been most interested in exploring recently are Rust, Scala 3, Kotlin and Ruby.  
+- I also have an interest in Node, Java, Python.  
+- Recent platform investigations have led me to prototypes with the (Micronaut Framework)[https://micronaut.io/] as well as practical applications of the SpringBoot framework.  
+- Most of my DevOps and infrastructure experience are on the AWS platform with Terraform and CloudFormation, but I also have an interest in investigating Linode.
 <!--
 **BlueTufa/bluetufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
