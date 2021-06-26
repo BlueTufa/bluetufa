@@ -1,5 +1,5 @@
 # Dan White
-Principal Software Engineer with a focus on backend API's, devops and infrastructure operating in redundant, multi-region HITRUST environments.  Owner of Blue Tufa LLC.  
+Principal Software Engineer with a focus on backend development, DevOps, security, and infrastructure operating in redundant, multi-region HITRUST environments.  Owner of Blue Tufa LLC.  
 
 ## Language and Development Tools
 I am a polyglot but the languages I've been most interested in exploring recently are Rust, Scala 3, Kotlin and Ruby.  I also have an interest in Node, Java, Python, and many more technology stacks.  
