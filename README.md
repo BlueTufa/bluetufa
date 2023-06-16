@@ -1,5 +1,5 @@
 # Dan White
-Engineering manager and software engineer with a focus on backend development, DevOps, information security, and machine learning running on cloud infrastructure.  A typical operating envionment is a global, multi-tenant cloud architecture operating under multiple regulatory requirements including SOC2, HIPAA, HITRUST, FDA SaMD, and GDPR.
+Engineering manager and software engineer with a focus on backend development, DevOps, information security, and machine learning (AI/ML) running within cloud infrastructure.  A typical operating envionment is a global, multi-tenant cloud architecture operating under multiple regulatory requirements including SOC2, HIPAA, HITRUST, FDA SaMD, and GDPR.
 
 Owner and Principal at Blue Tufa LLC.  
 
@@ -7,6 +7,7 @@ Owner and Principal at Blue Tufa LLC.
 - Most recently, I've been exploring Node.js, Go, and Python.
 - I also have an interest in Scala, Java, and Ruby.
 - DevOps and infrastructure experience on the AWS platform with Terraform, CloudCDK, and CloudFormation.
+- Operating within regulatory frameworks such as FDA class 1 / class 2 medical devices, software as a medical device (SaMD), SOC2, HIPAA, and HITRUST.
 <!--
 **BlueTufa/bluetufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
