@@ -1,5 +1,7 @@
 # Dan White
-Engineering Manager and Software Engineer with a focus on backend development, DevOps, security, and infrastructure operating in redundant, multi-region HITRUST environments.  Owner and Principal at Blue Tufa LLC.  
+Engineering manager and software engineer with a focus on backend development, DevOps, information security, and machine learning running on cloud infrastructure.  A typical operating envionment is a global, multi-tenant cloud architecture operating under multiple regulatory requirements including SOC2, HIPAA, HITRUST, FDA SaMD, and GDPR.
+
+Owner and Principal at Blue Tufa LLC.  
 
 ## Languages and Development Tools
 - Most recently, I've been exploring Node.js, Go, and Python.
