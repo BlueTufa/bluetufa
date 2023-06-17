@@ -5,9 +5,9 @@ Owner and Principal, Blue Tufa LLC.
 
 ## Languages and Development Tools
 - Most recently, I've been exploring Node.js, Go, and Python.
-- I also have an interest in Scala, Java, and Ruby.
+- I also have an interest in Rust, Scala, Java, and Ruby.
 - DevOps and infrastructure experience on the AWS platform with Terraform, CloudCDK, and CloudFormation.
-- Operating within regulatory frameworks such as FDA class 1 / class 2 medical devices, software as a medical device (SaMD), SOC2, HIPAA, and HITRUST.
+- Operating within regulatory frameworks such as FDA Class 1 / Class 2 medical devices, software as a medical device (SaMD), SOC2, HIPAA, and HITRUST.
 <!--
 **BlueTufa/bluetufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
