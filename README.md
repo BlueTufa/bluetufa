@@ -7,7 +7,9 @@ Owner and Principal, Blue Tufa LLC.
 - Most recently, I've been exploring Node.js, Go, and Python.
 - I also have an interest in Rust, Scala, Java, and Ruby.
 - DevOps and infrastructure experience on the AWS platform with Terraform, CloudCDK, and CloudFormation.
-- Operating within regulatory frameworks such as FDA Class 1 / Class 2 medical devices, software as a medical device (SaMD), SOC2, HIPAA, and HITRUST.
+- Design, development, and administrative experience with Okta and Amazon Cognito.
+- CI/CD implementations on CircleCI, GitHub Actions, AWS CodePipeline, and Jenkins.
+- Operating within regulatory frameworks for FDA Class 1 / Class 2 medical devices, software as a medical device (SaMD), SOC2, HIPAA, and HITRUST.
 <!--
 **BlueTufa/bluetufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
