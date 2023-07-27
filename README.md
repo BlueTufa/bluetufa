@@ -4,7 +4,7 @@ Engineering manager and software engineer with a focus on backend development, D
 Owner and Principal, Blue Tufa LLC.  
 
 ## Languages, Development Tools, and Operating Parameters
-- Most recently, I've been exploring Node.js, Go, and Python.
+- Most recently, I've been building solutions with Node.js, Go, and Python.
 - I also have an interest in Rust, Scala, Java, and Ruby.
 - DevOps and infrastructure experience on the AWS platform with Terraform, CloudCDK, and CloudFormation.
 - Design, development, and administrative experience with Okta and Amazon Cognito.
