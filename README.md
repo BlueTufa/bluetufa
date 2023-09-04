@@ -1,5 +1,7 @@
 # Dan White
-Engineering manager and software engineer with a focus on backend software engineering, development operations (DevOps), information security, and machine learning (AI/ML) within cloud infrastructure such as Amazon Web Services (AWS).  A typical operating envionment is a global, multi-tenant cloud architecture operating under multiple regulatory requirements such as SOC2, HIPAA, HITRUST, FDA SaMD, and GDPR.
+Engineering manager and software engineer with a focus on backend software engineering, development operations (DevOps), information security, and machine learning (AI/ML) within cloud infrastructure such as Amazon Web Services (AWS).  
+
+A typical operating envionment is a global, multi-tenant cloud architecture operating under multiple regulatory requirements such as SOC2, HIPAA, HITRUST, FDA SaMD, and GDPR.
 
 Owner and Principal, Blue Tufa LLC.  
 
