@@ -3,7 +3,7 @@ Engineering manager and software engineer with a focus on backend software engin
 
 A typical operating envionment is a global, multi-tenant cloud architecture operating under multiple regulatory frameworks such as SOC2, HIPAA, HITRUST, FDA SaMD, and GDPR.
 
-## Languages and Operating Environment
+## Software Development Languages and Operating Environment
 - Most recently, I've been building solutions with Python, Rust, and Node.js (TypeScript).
 - I also have an interest in Go, Scala, Java, and Ruby.
 - DevOps and infrastructure experience on the AWS platform with Terraform, CloudCDK, and CloudFormation.
