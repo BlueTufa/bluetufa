@@ -5,7 +5,7 @@ A typical operating envionment is a global, multi-tenant cloud architecture oper
 
 Owner and Principal, Blue Tufa LLC.  
 
-## Languages, Development Tools, and Operating Parameters
+## Languages and Operating Environment
 - Most recently, I've been building solutions with Python, Rust, and Node.js (TypeScript).
 - I also have an interest in Go, Scala, Java, and Ruby.
 - DevOps and infrastructure experience on the AWS platform with Terraform, CloudCDK, and CloudFormation.
